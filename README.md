@@ -3,14 +3,11 @@
 
 <h1 align="center">I'm Rakshit Sharma</h1>
 <h3 align="center">A passionate Full Stack Web Developer 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXZ0OW11cGM1cnF1Z2JzdXhtZjE4ZGtvaTJkbGZ0Z3RzaXh5NmcyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CrFLL3CnRpw5ddlBMm/giphy.gif" />
 
 - 🔭 I’m currently working on **Full Stack Development + Gen AI**
 - 🌱 I’m currently learning **MCP servers, Infra Stability, Cloud Deployments**
 - 💬 Ask me about **React, TypeScript, Ruby, FastAPI, AWS**
 - 📫 How to reach me: **rakshit4013@gmail.com**
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
