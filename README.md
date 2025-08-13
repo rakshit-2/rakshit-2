@@ -70,7 +70,7 @@
 
 <br><br>
 <h1 align="center">My Github Stats 🚀</h1>
-<img align="left" alt="Coding GIF" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3htNm1nZTRvc2Z4ZXAxNWMxYTB2YXN5eTU1cmp4bWMxN3UycGk5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y0b2MpUTfnrUa3jIM7/giphy.gif" />
+<img align="left" alt="Coding GIF" width="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3htNm1nZTRvc2Z4ZXAxNWMxYTB2YXN5eTU1cmp4bWMxN3UycGk5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y0b2MpUTfnrUa3jIM7/giphy.gif" />
 <div align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshit-2&show_icons=true&locale=en&layout=compact" alt="rakshit-2" />
 <img src="https://github-readme-stats.vercel.app/api?username=rakshit-2&show_icons=true&locale=en" alt="rakshit-2" />
