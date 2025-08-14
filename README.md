@@ -20,8 +20,8 @@
 <a href="mailto:rakshit4013@gmail.com" target="blank">
 <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="email" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/shruti_166" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shruti_166" height="30" width="40" />
+<a href="https://leetcode.com/u/rakshit_sh/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakshit-2" height="30" width="40" />
 </a>
 </p>
 
