@@ -1,4 +1,4 @@
-<h1 align="center">Hello folks 👋, Welcome to my GitHub Profile</h1>
+<h1 align="center">Hello folks 👋, Welcome to my GitHub</h1>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGo1czVseW5wMjF3dmUzeGxlNDc5OWsyNHhwMjZnc2liMm5qcnh0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" height="300px" width="100%"/>
 
 <h1 align="center">I'm Rakshit Sharma</h1>
